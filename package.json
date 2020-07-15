@@ -1,0 +1,9 @@
+{
+  "name": "npkill-test",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sai Sandeep Vaddi",
+  "license": "MIT",
+  "workspaces": ["one", "two"]
+}
